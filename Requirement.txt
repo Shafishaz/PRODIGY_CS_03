@@ -1,0 +1,4 @@
+##--------------------------------- Requirements ----------------------------##
+
+- Python 3.0 or above.
+-This tool is written in Python and requires Python 3.x. The only required module is re, which is part of the Python standard library.
