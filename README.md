@@ -1,17 +1,13 @@
-# PRODIGY_CS_03
-3rd Task
+Password Strength Checker
+This tool assesses the strength of a password based on various criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters. The tool provides feedback on whether the password is weak, medium, or strong.
 
-How the Tool Works
-Length Check: The password gets a score of 1 if it is at least 8 characters long and 2 if it is 12 or more characters.
-Character Type Checks:
-Uppercase Letters: Gets 1 point if it contains at least one uppercase letter.
-Lowercase Letters: Gets 1 point if it contains at least one lowercase letter.
-Numbers: Gets 1 point if it contains at least one digit.
-Special Characters: Gets 1 point if it contains at least one special character (e.g., @, $, !, %, *, ?, &).
-Strength Levels:
-Very Strong: All criteria met.
-Strong: At least 4 criteria met.
-Medium: 3 criteria met.
-Weak: 2 criteria met.
-Very Weak: 1 or fewer criteria met.
-Feedback: Provides suggestions on how to strengthen the password.
+Features
+Length Check: Ensures the password is at least 8 characters long.
+Uppercase Letters: Checks for the presence of uppercase letters.
+Lowercase Letters: Checks for the presence of lowercase letters.
+Digits: Ensures the password contains at least one digit.
+Special Characters: Ensures the password contains at least one special character.
+Usage
+Clone or download the repository.
+Navigate to the directory where the Password_Complexity_Checker.py file is located.
+Run the script:
