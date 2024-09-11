@@ -1,4 +1,5 @@
-Password Strength Checker
+
+# Password Strength Checker
 
 This tool assesses the strength of a password based on various criteria such as length, presence of uppercase and lowercase letters, numbers, and special characters. The tool provides feedback on whether the password is weak, medium, or strong.
 
